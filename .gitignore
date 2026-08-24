@@ -1,0 +1,4 @@
+vggt/
+*.pth
+__pycache__/
+*.pt
